@@ -1,0 +1,63 @@
+*{
+	margin: 0; padding: 0;
+}
+a{
+	text-decoration: none;
+}
+.clearfix{ overflow: auto
+}
+.Home{
+	width: 1000px;
+	margin: 0 auto;
+}
+.Top{
+	background-color: black;
+	width: 1000px;
+}
+
+.Top_right{
+	float: right;
+}
+.Top_right ul{
+	list-style: none;
+	margin: 0 10px
+}
+.Top_right ul li{
+	display: inline-block;
+}
+.Top_right ul li a{
+	color: white;
+}
+.Top_left{
+	float: left;
+	color: white
+	letter-space:0px;
+
+
+
+}
+nav.image{
+	margin: 20px
+	width: 150px
+	height:200px;
+}
+nav.image.navigation{
+	float: center;
+}
+nav.image.navigation ul{
+	list-style: none;
+}
+nav.image.navigation ul li{
+	display: inline-block;
+	margin-right: 10px
+	margin-right: 1px solid red
+	
+}
+nav.image.navigation ul li a{
+	font-weight:10px;
+	color: white;
+}
+nav.Middle{
+	float: center
+	margin:20px;
+}
