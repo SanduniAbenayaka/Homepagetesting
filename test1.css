@@ -1,0 +1,105 @@
+*{
+	margin: 0; padding: 0;
+}
+a{
+	text-decoration: none;
+}
+.clearfix{ overflow: auto
+}
+body{
+	background-image: url("../img project/Best-private-meeting-venue-Holiday-Inn-Suites-Makati.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.web{
+	width: 1000px;
+	margin: 0 auto;
+}
+.top{
+	background-color: red;
+	width: 1000px;
+
+}
+.topl{
+	float: left;
+
+
+}
+
+.topl ul{
+	list-style: none;
+	margin: 10px;
+}
+
+.topl ul li {
+	padding: 0 10px;
+	display: inline-block;
+	border-right: 1px solid white;
+
+
+}
+.top ul li:last-child{
+	border: 0; 
+}
+
+.topl ul li a{
+	color: white;
+
+}
+
+.topr{
+	padding: 3px 10px;  
+	margin: 15px;
+	float: right;
+	background: white;
+	border-radius: 20px;
+
+
+} 
+.topr input{
+	border: 0;
+	float: left;
+}
+
+.topr button{
+	padding: 3px 3px;
+	border: 0;
+	background: red;
+	border-radius: 12px;
+	float: right;
+
+
+}
+.social-media{
+	margin: 30px 10px;
+	float: right;
+
+}
+.social-media ul{
+	list-style: none
+
+}
+.social-media ul li{
+
+	display: inline
+	
+
+	
+}
+.social-media ul li a{
+	padding: 6px;
+	color: black;
+	background: yellow;
+	display: inline-block;
+	border-radius: 20px;
+
+}
+.social-media ul li a:hover{
+	color: blue;}
+
+.table ul li{
+	display: inline;
+	margin:20px 25px;
+	}
+
+.table 
